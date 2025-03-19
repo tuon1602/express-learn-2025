@@ -7,7 +7,6 @@ NODE_ENV = development
 DB_URL = mongourl , etc
 
 ARCJET_ENV=development
-# Get your site key from https://app.arcjet.com
 ARCJET_KEY = arcjet key
 
 JWT_SECRET = anykey
